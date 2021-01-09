@@ -1,3 +1,3 @@
 # javascriptPractice
 
-A simple vanillaJS game made during a code along found online. This game is nothing more than me practicing my javascript fundamentals.
+Simple vanillaJS made during a code along found online. These files are nothing more than me practicing my javascript fundamentals.
